@@ -1,0 +1,32 @@
+body{
+    background-color: deepskyblue;
+}
+
+h1{
+    font-size: 30px;
+    color: red;
+}
+
+h2{
+    font-size: 20px;
+    color: blueviolet
+}
+
+h2{
+color:aqua
+}
+.big{
+    font-size: 80px;
+}
+
+.high{
+font-size: 50px;
+}
+
+.big.high{
+color: beige;
+}
+
+h1 span{
+    color: brown;
+}
