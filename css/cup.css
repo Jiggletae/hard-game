@@ -1,0 +1,13 @@
+body{
+    margin: auto;
+}
+
+header{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+header h1{
+    color: white;
+}
+
