@@ -3,6 +3,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     line-height: 30px;
+    background-color: black;
 }
 
 header{
@@ -17,14 +18,14 @@ h1, h2{
 }
 
 header h1{
-    color: white;
+    color: black;
     font-size: 45px;
 }
 
 header img{
     border-radius: 170px;
     width: 300px;
-    border: 20px solid white;
+    border: 20px solid black;
 }
 
 main{
@@ -54,7 +55,7 @@ a:hover{
 footer{
     background-color: burlywood;
     text-align: center;
-    color: white;
+    color: black;
     padding: 50px;
 }
 
